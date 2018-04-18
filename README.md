@@ -1,4 +1,5 @@
-# New uses for old tools: An introduction to mathematical programming
+# New uses for old tools
+## An introduction to mathematical programming
 
 By Gianluca Campanella (<gianluca@campanella.org>)
 
